@@ -16,7 +16,6 @@ private val bold = Font(R.font.poppins_bold, FontWeight.Bold)
 
 val fontFamily = FontFamily(fonts = listOf(light, regular, medium, semibold, bold))
 
-// Set of Material typography styles to start with
 val Typography = Typography(
 
     h1 = TextStyle(

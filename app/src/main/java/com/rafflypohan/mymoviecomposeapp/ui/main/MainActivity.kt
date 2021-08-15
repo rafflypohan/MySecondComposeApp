@@ -2,7 +2,6 @@ package com.rafflypohan.mymoviecomposeapp.ui.main
 
 import android.content.Intent
 import android.os.Bundle
-import android.view.Gravity
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.Image
@@ -35,7 +34,6 @@ import com.rafflypohan.mymoviecomposeapp.data.DataDummy
 import com.rafflypohan.mymoviecomposeapp.data.Movie
 import com.rafflypohan.mymoviecomposeapp.ui.detail.DetailActivity
 import com.rafflypohan.mymoviecomposeapp.ui.theme.MyMovieComposeAppTheme
-import com.rafflypohan.mymoviecomposeapp.utils.TextUtils
 import com.rafflypohan.mymoviecomposeapp.utils.TextUtils.fixTextPadding
 
 class MainActivity : ComponentActivity() {
